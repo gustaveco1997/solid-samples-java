@@ -1,9 +1,6 @@
 package srp.exemplo2;
 
 import java.io.File;
-import java.util.Arrays;
-import java.util.regex.Pattern;
-import java.util.stream.Stream;
 
 public class TextManipulator implements TextManipulatorInterface {
 

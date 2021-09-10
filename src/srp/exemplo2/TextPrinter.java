@@ -20,6 +20,6 @@ public class TextPrinter {
 
     public void saveOutputFile(String path) {
         FileTxtWrite fileWriter = new FileTxtWrite();
-        fileWriter.save(path, manipulator.getText());
+        fileWriter.save(path, manipulator);
     }
 }

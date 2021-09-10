@@ -10,7 +10,7 @@ public class FileTxtWrite {
         save(path, manipulator.getText());
     }
 
-    public void save(String path, String body) {
+    private void save(String path, String body) {
         try {
             BufferedWriter bWriter = new BufferedWriter(new FileWriter(path));
             bWriter.write(body);

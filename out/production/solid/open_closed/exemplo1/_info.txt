@@ -1,0 +1,8 @@
+O Princípio Aberto-Fechado (OCP) afirma que as classes devem ser abertas para extensão,
+mas fechadas para modificação. ?Aberto à extensão? significa que você deve projetar suas
+classes de forma que novas funcionalidades possam ser adicionadas conforme novos requisitos
+são gerados. ?Fechado para modificação? significa que uma vez que você desenvolveu uma classe,
+você nunca deve modificá-la, exceto para corrigir bugs.
+
+Exemplo:
+https://github.com/mikeknep/SOLID/tree/main/open_closed
