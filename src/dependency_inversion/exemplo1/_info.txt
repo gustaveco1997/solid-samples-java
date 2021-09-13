@@ -1,0 +1,2 @@
+Exemplo Adaptado de:
+https://www.baeldung.com/java-dependency-inversion-principle

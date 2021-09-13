@@ -1,0 +1,4 @@
+Exemplo adaptado de:
+https://www.baeldung.com/java-interface-segregation
+
+Consiste em subdividir interfaces para não ter implementações vazias
